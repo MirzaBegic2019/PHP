@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+
+.header{
+    background: lightgray;
+}
+
+.text{
+    padding: 10px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    border: 7px ridge white;
+}
+
+.text span{
+    padding: 10px;
+}
+
+.administrator{
+    background: green;
+}
+
+.user{
+    background: blue;
+    
+}
+
+.unknown{
+    background: red;
+}
+
+.coordinator{
+    background: yellow;
+}
